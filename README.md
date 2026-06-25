@@ -27,4 +27,3 @@ This repo documents my setup of [Cursor IDE](https://cursor.com/) with the **Cla
 
 - **Issue:** Codex extension login kept failing / wouldn't authenticate with my ChatGPT account.
   **Solution:** Restarted Cursor completely (not just a window reload) and re-attempted sign-in. Made sure no conflicting API key was set, since that can override ChatGPT sign-in.
-
