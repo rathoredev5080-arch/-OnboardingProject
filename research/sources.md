@@ -1,7 +1,7 @@
 # Research Sources — Cold Outreach Pipeline for B2B SaaS
  
 **Topic:** Cold Outreach Pipeline for B2B SaaS  
-**Last Updated:** June 2025  
+**Last Updated:** June 2026  
 **Curator:** Dev Singh Rathore
  
 ---
